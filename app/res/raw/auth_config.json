@@ -1,6 +1,6 @@
 {
   "client_id": "0oaebrgs9vbI8Ly3s0h7",
-  "redirect_uri": "com.oktapreview.dev-238370:/callback",
+  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
   "authorization_scope": "openid email profile",
   "discovery_uri": "https://dev-238370.oktapreview.com/.well-known/openid-configuration",
   "authorization_endpoint_uri": "",
